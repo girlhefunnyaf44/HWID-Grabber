@@ -25,6 +25,4 @@ print(colorama.Fore.RED + "HWID Copied to Clipboard!")
 print(colorama.Fore.BLACK + " ----------------------------")
 
 print(s2)
-import time
-print("something")
 time.sleep(5.5)    # Pause 10.5 seconds
